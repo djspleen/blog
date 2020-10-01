@@ -1,0 +1,40 @@
+baseURL = "https://spleen.netlify.app"
+languageCode = "ru-RU"
+title = "Необъяснимо, но FUCK"
+
+copyright = "John Doe - All rights reserved"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+paginate = 9
+enableEmoji = true
+
+[permalinks]
+  post = "/:slug/"
+
+[params]
+  logo = "/i/spleen.svg"
+  description ="Уютный мирок мизантропа"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "DRSpleen"
+  thumbnail = "/i/ava.jpg"
+  description = "Повелитель блога мизантропа"
+
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/post"
+[[menu.main]]
+    name = "WTF"
+    identifier = "about"
+    weight = 200
+    url = "/about"
+[[menu.main]]
+    name = "Что за х..ня?"
+    identifier = "chto-za-x-nya"
+    weight = 200
+    url = "/chto-za-x-nya"
