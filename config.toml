@@ -2,7 +2,7 @@ baseURL = "https://spleen.netlify.app"
 languageCode = "ru-RU"
 title = "Необъяснимо, но FUCK"
 
-copyright = "John Doe - All rights reserved"
+copyright = "DRSpleen - All rights reserved. Или нет."
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
 paginate = 9

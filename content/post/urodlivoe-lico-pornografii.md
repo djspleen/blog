@@ -14,6 +14,8 @@ draft: "false"
 
 slug: "urodlivoe-lico-pornografii"
 
+image: /uploads/2013/12/porn_stars_makeup2.jpg
+
 categories:
 
 
